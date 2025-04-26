@@ -1,5 +1,5 @@
 
-<h1 align="center">SoulNet 🤝</h1>
+<h1 align="center">SoulNet</h1>
 
 ## Overview
 This social media app, SoulNet, built with Next.js on the frontend and a Node.js/Express backend.
