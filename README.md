@@ -17,18 +17,24 @@ SoulNet is a modern, full-stack social media application developed using the MER
 
 - Clone the Repository
 
-```
+```bash
 git clone https://github.com/DileepGhanta/SoulNet.git
 ```
 
 - Start backend
-```
+
+Navigate to the `backend` directory and start the backend server using `nodemon`:
+
+```bash
 cd backend
 nodemon server.js
 ```
 
 - Start frontend
-```
+
+Navigate to the `frontend` directory and start the frontend development server:
+
+```bash
 cd frontend
 npm run dev
 ```
