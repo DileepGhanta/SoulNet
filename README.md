@@ -27,6 +27,7 @@ Navigate to the `backend` directory and start the backend server using `nodemon`
 
 ```bash
 cd backend
+npm install
 nodemon server.js
 ```
 
@@ -36,6 +37,7 @@ Navigate to the `frontend` directory and start the frontend development server:
 
 ```bash
 cd frontend
+npm install
 npm run dev
 ```
 
